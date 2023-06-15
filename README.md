@@ -823,11 +823,6 @@ Nous allons avoir besoin de plusieurs fichiers pour ce projet. Voici une proposi
 
 Crée ces fichiers dans ton répertoire de projet. Ils peuvent tous être vides pour l'instant.
 
-Voilà ! Nous sommes prêts à commencer à coder. Dans la prochaine section, nous commencerons par inspecter le site IMDB pour comprendre sa structure.
+Et maintenant, c'est à toi de jouer !
 
-
-
-
-```python
-
-```
+Tu pourras ensuite regarder ma version du scraper dans ce repository, dans le dossier `IMDB_Scraper`
